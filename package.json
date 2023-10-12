@@ -7,6 +7,8 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+
+  "homepage": "https://prof-tejera.github.io/homework-4-cathgiese",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -1,0 +1,12 @@
+.op-buttons { 
+    padding: 10px;
+    margin: 5px;
+    margin-top: 15px;
+    border: 1px solid black;
+    width: 80;
+    background-color: white;
+}
+
+.op-buttons:hover {
+    background-color: #d3d3d3;
+}

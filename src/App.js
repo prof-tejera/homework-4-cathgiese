@@ -1,4 +1,5 @@
 import Calculator from "./components/Calculator";
+import { useEffect, useState } from "react";
 
 function App() {
   return (
