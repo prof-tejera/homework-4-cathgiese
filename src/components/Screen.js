@@ -7,6 +7,10 @@ const Screen = ({ value }) => {
         height: 70,
         textAlign: "right",
         marginBottom: 10,
+        background: "white",
+        fontSize: "20px",
+        paddingTop: "40px",
+        paddingRight: "15px",
       }}
     >
       {value}

@@ -1,0 +1,23 @@
+.num-buttons { 
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid black;
+    width: 90;
+    background-color: white;
+}
+
+.num-buttons:hover {
+    background-color: #d3d3d3;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
